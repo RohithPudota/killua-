@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Apex stats
 
 You can use the [editor on GitHub](https://github.com/vipervenom4750/killua-/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
